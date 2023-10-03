@@ -1,2 +1,2 @@
 # computer_vision
-Computer Vision Tasks
+This repository contains some of my Computer Vision projects.
